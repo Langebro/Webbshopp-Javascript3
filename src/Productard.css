@@ -1,0 +1,22 @@
+.productCard {
+  border: 1px solid rgb(205, 205, 205);
+  border-radius: 10px;
+  padding: 10px 10px 10px 10px;
+  box-shadow: 5px 5px 5px lightgray;
+}
+
+.productCard > span {
+  margin: 0px 2px 10px 10px;
+}
+
+.cartBtn {
+  color: rgb(176, 172, 172);
+  height: 30px;
+  width: 35px;
+  border: none;
+  border-radius: 10px;
+}
+
+#name {
+  font-weight: bold;
+}
