@@ -1,8 +1,24 @@
-function Productinfo() {
+import react from "react";
+import "./Productinfo.css";
+
+function Productinfo(props) {
+  if (!props.show) {
+    return null;
+  }
   return (
-    <>
-      <h3>Om produkt</h3>
-    </>
+    <div className="modal">
+      <div className="modal-Content">
+        <div className="modal-Header">
+          <h3>Product information</h3>
+        </div>
+        <div className="modal-body">{props.product.description}</div>
+        <div className="modal-footer">
+          <button className="closeBtn" onClick={() => props.close()}>
+            close
+          </button>
+        </div>
+      </div>
+    </div>
   );
 }
 
