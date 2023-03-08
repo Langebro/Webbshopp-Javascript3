@@ -1,15 +1,15 @@
-import data from "./data.json";
 import Productcard from "./Productcard";
+import "./Searchresult.css";
 
 function Searchresult(props) {
-  console.log(data);
+  console.log(props);
   return (
     <div className="resultContainer">
       <h3>Search result</h3>
       <div className="result">
-        {data.Products.map((product) => {
+        {props.products.map((product) => {
           return (
-            <div key={product.productid}>
+            <div className="productList" key={product.productid}>
               <Productcard {...product} />
             </div>
           );
