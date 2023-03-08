@@ -1,0 +1,6 @@
+.cartItem {
+  border: 1px solid rgb(205, 205, 205);
+  border-radius: 10px;
+  padding: 10px 10px 10px 10px;
+  box-shadow: 5px 5px 5px lightgray;
+}
