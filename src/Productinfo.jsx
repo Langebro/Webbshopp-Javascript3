@@ -1,10 +1,9 @@
-import react from "react";
 import "./Productinfo.css";
 
 function Productinfo(props) {
   if (!props.show) {
     return null;
-  }
+  } // props för att kunna stänga modal
   return (
     <div className="modal">
       <div className="modal-Content">

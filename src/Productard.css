@@ -1,6 +1,6 @@
 .productCard {
   border: 1px solid rgb(205, 205, 205);
-  border-radius: 10px;
+  border-radius: 5px;
   padding: 10px 10px 10px 10px;
   box-shadow: 5px 5px 5px lightgray;
 }
@@ -12,7 +12,7 @@
 .cartBtn {
   color: rgb(176, 172, 172);
   height: 30px;
-  width: 35px;
+  width: 60px;
   border: none;
   border-radius: 10px;
 }

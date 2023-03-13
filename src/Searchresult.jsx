@@ -2,7 +2,6 @@ import Productcard from "./Productcard";
 import "./Searchresult.css";
 
 function Searchresult(props) {
-  console.log(props);
   return (
     <div className="resultContainer">
       <h3>Search result</h3>

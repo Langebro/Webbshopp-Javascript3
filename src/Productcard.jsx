@@ -1,13 +1,14 @@
 import "./App.css";
 import "./Productard.css";
 import { useContext, useState } from "react";
+
 import Productinfo from "./Productinfo";
 import { shopContext } from "./Context/Context";
 
 function Productcard(props) {
-  const { addToCart, cart, cartItems } = useContext(shopContext);
-  const [show, setShow] = useState(false);
-  const itemAmount = cartItems[props.productid];
+  const { addToCart, cartItems } = useContext(shopContext); //context
+  const [show, setShow] = useState(false); // state för att kunna visa informationsmodal
+  const itemAmount = cartItems[props.productid]; // varibel för totalkostnad
   const addToCartBtn = (e) => {
     e.preventDefault();
     addToCart(props.productid);

@@ -1,5 +1,5 @@
 .webbshoppApp {
-  padding: 10px 10px 10px;
+  padding: 20px 20px 20px;
 }
 
 .searchWrapper {
@@ -20,4 +20,10 @@ img {
   height: 200px;
   width: 90px;
   display: inline-block;
+}
+
+.cartBtn {
+  color: rgb(176, 172, 172);
+  border: none;
+  border-radius: 10px;
 }

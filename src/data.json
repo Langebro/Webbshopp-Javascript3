@@ -3,7 +3,7 @@
     {
       "name": "FUKT",
       "label": "Björk",
-      "productid": 1,
+      "productid": 0,
       "description": "Björk FUKT hydrate Schampoo 300ml",
       "price": 250,
       "img": "https://lyko.com/globalassets/product-images/bjork-fukt-shampoo-300ml-1505-101-0300_1.jpg?ref=1234069&w=640&h=640&mode=max&quality=75&format=webp"
@@ -12,7 +12,7 @@
     {
       "name": "Heal",
       "label": "Maria Nila",
-      "productid": 2,
+      "productid": 1,
       "description": " Maria Nila, Head and Hair Heal Conditioner 300ml",
       "price": 319,
       "img": "https://lyko.com/globalassets/product-images/maria-nila-head--hair-heal-conditioner-300ml-1003-177-0300_1.jpg?ref=1029535&w=640&h=640&mode=max&quality=75&format=webp"
@@ -21,8 +21,8 @@
     {
       "name": "Moisture",
       "label": "Björn Axén",
-      "productid": 3,
-      "description": "Björn Axén, Moisture conditioner",
+      "productid": 2,
+      "description": "Björn Axén, Moisture conditioner, 250ml",
       "price": 190,
       "img": "https://lyko.com/globalassets/product-images/bjorn-axen-conditioner-250-ml-1000-397-0250_1.jpg?ref=1239841&w=640&h=640&mode=max&quality=75&format=webp"
     },
@@ -30,7 +30,7 @@
     {
       "name": "Cure",
       "label": "Ida Warg",
-      "productid": 4,
+      "productid": 3,
       "description": "Ida Warg, Cure Schampoo 250ml",
       "price": 229,
       "img": "https://lyko.com/globalassets/product-images/ida-warg-cure-shampoo-250ml-2300-202-0250_1.jpg?ref=1267158&w=640&h=640&mode=max&quality=75&format=webp"
@@ -39,7 +39,7 @@
     {
       "name": "True Soft",
       "label": "Maria Nila",
-      "productid": 5,
+      "productid": 4,
       "description": "Maria Nila, True Soft, Booster Masque 50ml",
       "price": 99,
       "img": "https://lyko.com/globalassets/product-images/maria-nila-mn-cs-booster-masque-true-soft-50-ml-1003-480-0050_1.jpg?ref=1149001&w=640&h=640&mode=max&quality=75&format=webp"
