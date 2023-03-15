@@ -16,9 +16,12 @@ function Productcard(props) {
 
   return (
     <div className="productCard">
+      <div>
+        <img src={props.img}></img>
+      </div>
       <span id="name">{props.name}</span>
       <span>{props.price} SEK</span>
-      <img src={props.img}></img>
+
       <span>
         <button className="cartBtn" onClick={addToCartBtn}>
           <svg

@@ -10,20 +10,11 @@
 .result {
   display: flex;
   flex-wrap: wrap;
-}
-
-.result > div > :nth-child(1) {
-  display: flex;
+  flex-grow: 1;
 }
 
 img {
-  height: 200px;
+  height: auto;
   width: 90px;
-  display: inline-block;
-}
-
-.cartBtn {
-  color: rgb(176, 172, 172);
-  border: none;
-  border-radius: 10px;
+  justify-content: center;
 }

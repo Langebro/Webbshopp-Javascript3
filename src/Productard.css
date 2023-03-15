@@ -3,6 +3,7 @@
   border-radius: 5px;
   padding: 10px 10px 10px 10px;
   box-shadow: 5px 5px 5px lightgray;
+  flex-grow: 1;
 }
 
 .productCard > span {
