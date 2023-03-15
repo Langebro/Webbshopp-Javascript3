@@ -1,0 +1,106 @@
+{
+  "Products": [
+    {
+      "name": "FUKT",
+      "label": "Björk",
+      "productid": 0,
+      "description": "Björk FUKT hydrate Schampoo 300ml",
+      "price": 250,
+      "img": "https://lyko.com/globalassets/product-images/bjork-fukt-shampoo-300ml-1505-101-0300_1.jpg?ref=1234069&w=640&h=640&mode=max&quality=75&format=webp"
+    },
+
+    {
+      "name": "Heal",
+      "label": "Maria Nila",
+      "productid": 1,
+      "description": " Maria Nila, Head and Hair Heal Conditioner 300ml",
+      "price": 319,
+      "img": "https://lyko.com/globalassets/product-images/maria-nila-head--hair-heal-conditioner-300ml-1003-177-0300_1.jpg?ref=1029535&w=640&h=640&mode=max&quality=75&format=webp"
+    },
+
+    {
+      "name": "Moisture",
+      "label": "Björn Axén",
+      "productid": 2,
+      "description": "Björn Axén, Moisture conditioner, 250ml",
+      "price": 190,
+      "img": "https://lyko.com/globalassets/product-images/bjorn-axen-conditioner-250-ml-1000-397-0250_1.jpg?ref=1239841&w=640&h=640&mode=max&quality=75&format=webp"
+    },
+
+    {
+      "name": "Cure",
+      "label": "Ida Warg",
+      "productid": 3,
+      "description": "Ida Warg, Cure Schampoo 250ml",
+      "price": 229,
+      "img": "https://lyko.com/globalassets/product-images/ida-warg-cure-shampoo-250ml-2300-202-0250_1.jpg?ref=1267158&w=640&h=640&mode=max&quality=75&format=webp"
+    },
+
+    {
+      "name": "True Soft",
+      "label": "Maria Nila",
+      "productid": 4,
+      "description": "Maria Nila, True Soft, Booster Masque 50ml",
+      "price": 99,
+      "img": "https://lyko.com/globalassets/product-images/maria-nila-mn-cs-booster-masque-true-soft-50-ml-1003-480-0050_1.jpg?ref=1149001&w=640&h=640&mode=max&quality=75&format=webp"
+    },
+
+    {
+      "name": "Heal",
+      "label": "Maria Nila",
+      "productid": 5,
+      "description": "Maria Nila, Head & Heal, Booster Masque 50ml",
+      "price": 99,
+      "img": "https://lyko.com/globalassets/product-images/maria-nila-mn-cs-booster-masque-head--heal-50-ml-1003-482-0050_1.jpg?ref=1149003&w=640&h=640&mode=max&quality=75&format=webp"
+    },
+    {
+      "name": "FUKT",
+      "label": "Björk",
+      "productid": 6,
+      "description": "Björk, FUKT, Hydra Treatment 200ml",
+      "price": 249,
+      "img": "https://lyko.com/globalassets/product-images/bjork-fukt-treatment-200ml-1505-133-0300_1.jpg?ref=1234090&w=640&h=640&mode=max&quality=75&format=webp"
+    },
+
+    {
+      "name": "Moist Schampo",
+      "label": "Waterclouds",
+      "productid": 7,
+      "description": "Waterclouds, Moist Schampo, 250ml",
+      "price": 249,
+      "img": "https://lyko.com/globalassets/product-images/waterclouds-summer-edition-moist-shampoo-250ml-1327-344-0250_1.jpg?ref=1078130&w=640&h=640&mode=max&quality=75&format=webp"
+    },
+    {
+      "name": "Relieve",
+      "label": "Waterclouds",
+      "productid": 8,
+      "description": "Waterclouds, Relieve Schampo, 250ml",
+      "price": 249,
+      "img": "https://lyko.com/globalassets/product-images/waterclouds-relieve-shampoo-250-ml-1327-398-0250_1.jpg?ref=1264582&w=640&h=640&mode=max&quality=75&format=webp"
+    },
+    {
+      "name": "Beat The Heat",
+      "label": "By Lyko",
+      "productid": 9,
+      "description": "By Lyko, Beat The Heat, Beat The Heat Multi, Spray 150 ml",
+      "price": 249,
+      "img": "https://lyko.com/globalassets/product-images/lyko-volumizing-argan-leave-in-conditioner-150ml-1189-631-0150_1.jpg?ref=891697&w=640&h=640&mode=max&quality=75&format=webp"
+    },
+    {
+      "name": "Repair Hairmask",
+      "label": "Waterclouds",
+      "productid": 10,
+      "description": "Waterclouds, Repair Hairmask, 200ml",
+      "price": 199,
+      "img": "https://lyko.com/globalassets/product-images/waterclouds-repair-hairmask-200ml-1327-328-0200_1.jpg?ref=582800&w=640&h=640&mode=max&quality=75&format=webp"
+    },
+    {
+      "name": "Relieve Scalp",
+      "label": "Waterclouds",
+      "productid": 11,
+      "description": "Waterclouds, Relieve Scalp Treatment, 100ml",
+      "price": 199,
+      "img": "https://lyko.com/globalassets/product-images/waterclouds-relieve-scalp-treatment-100-ml-1327-399-0100_1.jpg?ref=1264583&w=640&h=640&mode=max&quality=75&format=webp"
+    }
+  ]
+}
